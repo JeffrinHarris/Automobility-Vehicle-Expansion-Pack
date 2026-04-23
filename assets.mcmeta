@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": ${assets_pack_format},
+        "description": "${name} v${version} - Resource Pack"
+    }
+}

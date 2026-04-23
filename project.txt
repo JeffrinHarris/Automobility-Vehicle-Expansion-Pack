@@ -1,0 +1,28 @@
+# Build configuration for Automobility: Vehicle Expansion Pack
+# Edit these values to match your addon details
+
+build.assets=assets
+build.assets.meta=assets.mcmeta
+build.assets.file=avep_resources_${version}
+
+build.data=data
+build.data.meta=data.mcmeta
+build.data.file=avep_data_${version}
+
+build.mod.resources=assets,data
+build.mod.manifest=fabric.mod.json,neoforge.mods.toml:META-INF/neoforge.mods.toml
+build.mod.meta=assets.mcmeta
+build.mod.file=avep-${version}
+
+build.icon=icon.png
+build.license=LICENSE
+
+assets_pack_format=34
+data_pack_format=48
+
+name=Automobility: Vehicle Expansion Pack
+namespace=avep
+author=Jeffrin Harris
+version=0.1.0+1.21.1
+description=An expansion pack for Automobility, adding new vehicle types.
+license=MIT

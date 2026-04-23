@@ -1,0 +1,19 @@
+# Build output
+build/
+
+# Private workspace config (system-specific paths)
+workspace.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
