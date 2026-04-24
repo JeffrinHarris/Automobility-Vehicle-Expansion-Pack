@@ -1,5 +1,6 @@
 {
     "type": "automobility:obj",
     "material": "cutout_backfaces",
-    "model_layer": "avep:pink_cube/pink_cube"
+    "model_layer": "avep:pink_cube/pink_cube",
+    "translation": [0.0, -0.5, 0.0]
 }
