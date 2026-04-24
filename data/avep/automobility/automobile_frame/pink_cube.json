@@ -1,0 +1,63 @@
+{
+    "weight": 0.5,
+    "width": 1.0,
+    "hitboxes": [
+        {
+            "origin": [0.0, 0.5, 0.0],
+            "width": 1.0,
+            "height": 1.0
+        }
+    ],
+    "display": {
+        "driver_seat": [0, 8, 0],
+        "passenger_seats": [],
+        "engine_position": [0.0, 4, -8.0],
+        "rear_attachment_offset": 16,
+        "front_attachment_offset": 16,
+        "texture": "avep:automobile/frame/pink_cube.png",
+        "model": "avep:frame/pink_cube",
+        "wheels": [
+            {
+                "yaw": 0.0,
+                "end": "front",
+                "side": "left",
+                "forward": 8,
+                "right": -8,
+                "scale": 1.0
+            },
+            {
+                "yaw": 180.0,
+                "end": "front",
+                "side": "right",
+                "forward": 8,
+                "right": 8,
+                "scale": 1.0
+            },
+            {
+                "yaw": 0.0,
+                "end": "back",
+                "side": "left",
+                "forward": -8,
+                "right": -8,
+                "scale": 1.0
+            },
+            {
+                "yaw": 180.0,
+                "end": "back",
+                "side": "right",
+                "forward": -8,
+                "right": 8,
+                "scale": 1.0
+            }
+        ],
+        "length_pixels": 16
+    },
+    "horn": {
+        "loop_end": 0.3138,
+        "loop_start": 0.2019,
+        "pitches": [1.0],
+        "sound": {
+            "sound_id": "automobility:entity.automobile.disc_horn"
+        }
+    }
+}
