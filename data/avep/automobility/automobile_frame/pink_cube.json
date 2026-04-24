@@ -14,7 +14,7 @@
         "engine_position": [0.0, 4, -8.0],
         "rear_attachment_offset": 16,
         "front_attachment_offset": 16,
-        "texture": "avep:automobile/frame/pink_cube.png",
+        "texture": "avep:models/entity/pink_cube/pink_cube.png",
         "model": "avep:frame/pink_cube",
         "wheels": [
             {

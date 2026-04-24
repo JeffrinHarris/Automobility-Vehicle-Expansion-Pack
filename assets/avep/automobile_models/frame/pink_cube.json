@@ -1,4 +1,5 @@
 {
-    "type": "automobility:block",
-    "model": "avep:automobile/frame/pink_cube"
+    "type": "automobility:obj",
+    "material": "solid",
+    "model_layer": "avep:pink_cube/pink_cube"
 }
