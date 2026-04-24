@@ -8,4 +8,4 @@ if %errorlevel% neq 0 (
 )
 echo.
 echo Done! Launching Prism...
-start "" "C:\Users\jeff_\AppData\Local\Programs\PrismLauncher\prismlauncher.exe" --launch "1.21.1"
+start "" "C:\Users\jeff_\AppData\Local\Programs\PrismLauncher\prismlauncher.exe" --launch "Automobility-Vehicle-Expansion-Pack"
