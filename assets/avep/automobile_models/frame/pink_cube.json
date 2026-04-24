@@ -1,5 +1,5 @@
 {
     "type": "automobility:obj",
-    "material": "solid",
+    "material": "cutout_backfaces",
     "model_layer": "avep:pink_cube/pink_cube"
 }
